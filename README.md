@@ -13,3 +13,5 @@ If there exist a $0$ in the analytical derivative solution (like in function6) t
 error will be presented. However, even if you know there is a $0$ in the derivative it is possible that due to the discretization for the x values of the analytical solution, the $0$ may be skipped and the relative error will be then be presented and so will the absolute error. An example of this can be seen in function1, function4, function5.
 
 From what I have experimented with the central difference approximation seems to produe the best results in all cases
+
+The images in function1-plots may be to large for the GitHib page, clicking download will open them in fullscreen in a new window.
